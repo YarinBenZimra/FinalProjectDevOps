@@ -5,7 +5,7 @@
     <title>JSP Application</title>
 </head>
 <body>
-    <h1>Welcome To Our JSP Application</h1>
+    <h1>Hello And Welcome To Our JSP Application</h1>
     <form method="post">
         <input type="submit" value="Get Current Time"/>
     </form>
